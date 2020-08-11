@@ -1,4 +1,4 @@
-# PyTUBRER
+# PyTUBER
 PyTUBER - Youtube Downloader is a great project for downloading various resources from Youtube. You can download and save any video for free of cost without depending on any third party websites or applications from YouTube to your own system using PyTUBER, and watch it without even internet connection in your device.
 
 ->How to Download
